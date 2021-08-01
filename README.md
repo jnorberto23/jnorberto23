@@ -28,3 +28,4 @@
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+![Snake animation](https://github.com/jnorberto23/jnorberto23/blob/output/github-contribution-grid-snake.svg)
