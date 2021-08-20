@@ -8,6 +8,7 @@
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -15,6 +16,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-6a4fa0?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="Socketio" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="HMTL5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&&logo=css3&logoColor=white" />
