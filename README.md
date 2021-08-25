@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou aprendendo: **nodejs**
 
-- 📫 Como me encontrar: **joaovictor.norberto@outlook.com**
+- 📫 Como me contatar: **joaovictor.norberto@outlook.com**
 
 - 📄 Um pouco mais sobre mim: [https://resume.github.io/?jnorberto23](https://resume.github.io/?jnorberto23)
 
