@@ -1,7 +1,7 @@
 <h1>Salve! eu sou o João :)</h1>
 <h3>Sou um estudante de JavaScript</h3>
 
-- 🌱 Atualmente, estou aprendendo: **nodejs**
+- 🌱 Atualmente, estou aprendendo: **node.js, TDD e API REST**
 
 - 📫 Como me contatar: **joaovictor.norberto@outlook.com**
 
