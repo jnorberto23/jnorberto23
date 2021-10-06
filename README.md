@@ -1,11 +1,9 @@
-<h1>Salve! eu sou o jão :)</h1>
-<h3>Um estudante de JavaScript</h3>
+<h1>Salve! eu sou o João :)</h1>
+<h3>Sou um estudante de JavaScript</h3>
 
 - 🌱 Atualmente, estou aprendendo: **nodejs**
 
 - 📫 Como me contatar: **joaovictor.norberto@outlook.com**
-
-- 📄 Um pouco mais sobre mim: [https://resume.github.io/?jnorberto23](https://resume.github.io/?jnorberto23)
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
