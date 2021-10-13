@@ -1,5 +1,4 @@
-<h1>Salve! eu sou o João :)</h1>
-<h3>Sou um estudante de JavaScript</h3>
+<h1>Olá! eu sou o João</h1>
 
 - 🌱 Atualmente, estou aprendendo: **node.js**
 
