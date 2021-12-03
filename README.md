@@ -1,7 +1,6 @@
-<h1 align="center">Salve! eu sou o João, vulgo jão :)</h1>
-<h3 align="center">Um estudante de JavaScript</h3>
+<h1>Olá! eu sou o João!</h1>
 
-- 🌱 Atualmente, estou aprendendo: **nodejs**
+- 🌱 Atualmente, estou aprendendo: **AdonisJS**
 
 - 📫 Como me encontrar: **joaovictor.norberto@outlook.com**
 
