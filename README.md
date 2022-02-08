@@ -1,6 +1,6 @@
 <h1>Olá! eu sou o João!</h1>
 
-- 🌱 Atualmente, estou aprendendo: **AdonisJS**
+- 🌱 Atualmente, estou trabalhando com: **AdonisJS**
 
 - 📫 Como me encontrar: **joaovictor.norberto@outlook.com**
 
