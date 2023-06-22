@@ -1,10 +1,6 @@
 <h1>Olá! eu sou o João!</h1>
 
-- 🌱 Atualmente, estou trabalhando com: **AdonisJS**
-
 - 📫 Como me encontrar: **joaovictor.norberto@outlook.com**
-
-- 📄 Um pouco mais sobre mim: [https://resume.github.io/?jnorberto23](https://resume.github.io/?jnorberto23)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
