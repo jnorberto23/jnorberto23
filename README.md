@@ -1,6 +1,6 @@
 <h1>Olá! eu sou o João!</h1>
 
-- 📫 Como me encontrar: **joaovictor.norberto@outlook.com**
+📫 Como me encontrar: **joaovictor.norberto@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
